@@ -10,6 +10,8 @@ The baseline algorithms include: OKS, RF-OKS, Raker and LKMBooks.
 Our algorithms include: OKS++, IOKS, RF-OKS++ and RF-IOKS.
 
 The datasets are downloaded from: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/
+and http://archive.ics.uci.edu/ml/datasets.php
+
 binary classification datasets:
 magic04 (Num:19020, Fea: 10), 
 phishing (Num: 11055, Fea: 68), 
