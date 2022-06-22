@@ -1,7 +1,7 @@
 # OKS-Bandit
 Source codes of algorithms and datasets for our paper
 "Improved Regret Bounds for Online Kernel Selection under Bandit Feedback",
-accepted in ECML2022.
+accepted in ECML-PKDD 2022.
 
 We implement all algorithms with R on a Windows machine with 2.8 GHz Core(TM) i7-1165G7 CPU.
 execute each experiment 10 times with random permutation of all datasets and average all of the results.
