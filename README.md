@@ -6,9 +6,11 @@ accepted in ECML-PKDD 2022.
 We implement all algorithms with R on a Windows machine with 2.8 GHz Core(TM) i7-1165G7 CPU.
 execute each experiment 10 times with random permutation of all datasets and average all of the results.
 
-The default path of codes is "D:/experiment/Conference Paper/ECML/ECML2022",
-the path of datasets is "D:/experiment/online learning dataset/regression/"
+The default path of codes is "D:/experiment/Conference Paper/ECML/ECML2022".
+The path of datasets is "D:/experiment/online learning dataset/regression/"
 or "D:/experiment/online learning dataset/binary C/". 
+The store path is "D:/experiment/Conference Paper/ECML/ECML2022/ECML2022 Result/".
+You can also change all of the default paths. 
 
 The baseline algorithms include: OKS, RF-OKS, Raker and LKMBooks.
 Our algorithms include: OKS++, IOKS, RF-OKS++ and RF-IOKS.
